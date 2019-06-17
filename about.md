@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
 
-If you need to contact me, use this email [shevchenko.nik@icloud.com](shevchenko.nik@icloud.com)
+If you need to contact me, use this email [shevchenko.nik@icloud.com](mailto:shevchenko.nik@icloud.com)
