@@ -18,4 +18,4 @@ Dependencies (for runtime): [Axios](https://github.com/axios/axios), [Express](h
 
 DevDependencies (for local environment & tests): [Babel](https://babeljs.io/), [Webpack](https://webpack.js.org/), [ESLint](https://eslint.org/), [Jest](https://jestjs.io/), etc.
 
-To add dependencies to your project you need to do an ```npm install  -- save``` (shortcut: ```npm i -S```) and if you want to add devDependencies you can run the following command: ```npm install  -- save-dev``` (shortcut: ```npm i -D```). But if you install without flag, the package doesn't fit in ```packages.json```.
+To add dependencies to your project you need to do an ```npm install  --save``` (shortcut: ```npm i -S```) and if you want to add devDependencies you can run the following command: ```npm install  --save-dev``` (shortcut: ```npm i -D```). But if you install without flag, the package doesn't fit in ```packages.json```.
