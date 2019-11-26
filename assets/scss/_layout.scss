@@ -278,8 +278,9 @@ hr {
   }
 
   .post-item {
+    display: block;
     border: 1px solid lighten($light-gray-color, 10%);
-    padding: 0 0.5em;
+    padding: 1em;
     background: lighten($light-gray-color, 15%);
   }
 
