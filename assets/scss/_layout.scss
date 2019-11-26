@@ -135,7 +135,7 @@ hr {
 }
 
 .post-item {
-  margin-bottom: 0.2em;
+  margin-bottom: 0.5em;
   display: block;
 
   a {
@@ -177,6 +177,11 @@ hr {
 .post a,
 .page a {
   @extend .link;
+}
+
+.post-description {
+  color: #999;
+  font-size: rem(16);
 }
 
 .post {
