@@ -19,7 +19,7 @@ More specific documentation of V8 Engine is available at [docs](https://v8.dev/d
 
 Main scheme of compilation JavaScript code to Machine Code:
 
-![Javascript to Machine Code scheme](../assets/images/2019/js-to-machine_code.svg)
+![Javascript to Machine Code scheme](https://raw.githubusercontent.com/shevchenkonik/shevchenkonik.github.io/master/assets/images/2019/js-to-machine_code.svg)
 
 Each object takes a specific size in memory and C++ or ECMAScript specify on this size.
 
